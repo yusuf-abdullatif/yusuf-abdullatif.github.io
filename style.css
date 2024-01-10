@@ -355,6 +355,7 @@ body {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+    color:white;
     text-shadow:
             -1px -1px 0 black,
             1px -1px 0 black,
@@ -367,7 +368,7 @@ body {
     margin-top: 20px;
     margin-right: 310px;
     height: 476px;
-    width: 476px;
+    width: 600px;
     border: solid 3px black;
 }
 

@@ -478,6 +478,19 @@ ul, div,   figcaption {
     position: relative;
     border-radius: 2px;
 }
+#social-media a {
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgb(153, 78, 34);
+}
 .home-dropdown-toggle-main {
 
     width: 100%;
